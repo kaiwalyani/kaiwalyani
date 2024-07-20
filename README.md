@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Chronic underfitter, desperately searching for more data.<br>Machine learning enthusiast</p>
+<p align="left">Chronic underfitter, desperately searching for more data.<br></p>
 
 ###
 
