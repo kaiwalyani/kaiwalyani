@@ -1,8 +1,8 @@
-<h2 align="left">Kaiwalyani</h2>
+<h2 align="left">Hello there!</h2>
 
 ###
 
-<p align="left">Chronic underfitter, desperately searching for more data.<br></p>
+<p align="left">(Chronic underfitter, desperately searching for more data.)<br></p>
 
 ###
 
